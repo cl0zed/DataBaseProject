@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+    <name>CinemaMAX</name>
+    <address>Moscow</address>
+    <films>
+        <film>
+            <name>Pinguins</name>
+            <rating>0</rating>
+            <description>film about Pingiuns</description>
+            <genre>cartoon</genre>
+            <date>2014.11.27</date>
+            <actors>
+                <name>Capral</name>
+            </actors>
+        </film>
+        <film>
+            <name>Matrix</name>
+            <rating>0</rating>
+            <description>virtual reality</description>
+            <genre>fantasy</genre>
+            <date>2001.06.15</date>
+            <actors>
+                <name>Capral</name>
+                <name>Stan</name>
+                <name>Kenny West</name>
+            </actors>
+        </film>
+    </films>
+</cinema>
